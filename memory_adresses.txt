@@ -1,0 +1,11 @@
+Top Gear (E) [!] version:
+Top Gear (Europe)
+SHA1:7DA85FD8F5C16D495A8A1B80B2EFDAAED0D6C044
+MD5:9D66F2463E8F85942B7967E23BBCD53B
+
+Nitro player one:
+  - 001E6C and 001E6D
+    - The upper part of 001E6C is the counter that goes from 3 to 0
+    - 001E6D remains at zero when the nitro is not active and act as a counter up to FF when the nitro stops, the upper part of 001E6C is subtracted by one and its (001E6D) value returns to zero.
+   
+Nitro player two (probably) is the same at 001E6E and 001E6F.
